@@ -1,2 +1,2 @@
-# my-page
+# CV
 My Personal webpage.
